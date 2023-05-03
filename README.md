@@ -1,4 +1,4 @@
-# toolbox
+# TemplateBox
 some html, css and javascript resources 
 
 
